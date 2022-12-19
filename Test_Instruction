@@ -1,0 +1,5 @@
+Test_Instruction
+
+This command will find testy 4 times and put it in the Testy directoery
+
+./mkp224o testy -t 4 -v -s -n 4 -d Testy
